@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laiba/static/css/main.37002380.css",
+    "main.js": "/laiba/static/js/main.4e3c726e.js",
+    "static/js/453.0a9f4b6c.chunk.js": "/laiba/static/js/453.0a9f4b6c.chunk.js",
+    "index.html": "/laiba/index.html",
+    "main.37002380.css.map": "/laiba/static/css/main.37002380.css.map",
+    "main.4e3c726e.js.map": "/laiba/static/js/main.4e3c726e.js.map",
+    "453.0a9f4b6c.chunk.js.map": "/laiba/static/js/453.0a9f4b6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37002380.css",
+    "static/js/main.4e3c726e.js"
+  ]
+}
